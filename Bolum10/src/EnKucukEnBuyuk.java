@@ -55,3 +55,11 @@ public class EnKucukEnBuyuk {
 		System.out.println(dogru);                      // -3
 	}
 }
+
+/* Beklenen cikti:
+1 9
+9
+1
+0
+-3
+*/

@@ -36,3 +36,9 @@ public class DiziTersCevirme {
 		System.out.println(Arrays.toString(b));        // [4, 1, 2, 3]
 	}
 }
+
+/* Beklenen cikti:
+[5, 4, 3, 2, 1]
+[1, 2, 3, 4]
+[4, 1, 2, 3]
+*/

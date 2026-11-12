@@ -13,3 +13,8 @@ public class OzyinelemeliTersCevirme {
 		System.out.println(ters("kanyak"));     // kaynak
 	}
 }
+
+/* Beklenen cikti:
+cba
+kaynak
+*/

@@ -25,3 +25,8 @@ public class MatrisIslemleri {
 		System.out.println(Arrays.deepToString(C));   // [[19, 22], [43, 50]]
 	}
 }
+
+/* Beklenen cikti:
+[[1, 4], [2, 5], [3, 6]]
+[[19, 22], [43, 50]]
+*/

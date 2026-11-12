@@ -63,3 +63,18 @@ public class AsalSayi {
         System.out.println("oncekiAsal(100) = " + oncekiAsal(100));
     }
 }
+
+/* Beklenen cikti:
+29: asal (4 kez %)
+21: asal degil (2 kez %)
+91: asal degil (6 kez %)
+1: asal degil (0 kez %)
+2: asal (0 kez %)
+i * i < n hatasiyla 49: asal (dogrusu: asal degil)
+25 asal sayi degildir
+26 asal sayi degildir
+27 asal sayi degildir
+28 asal sayi degildir
+29 asal sayidir
+oncekiAsal(100) = 97
+*/

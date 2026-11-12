@@ -26,3 +26,16 @@ public class BagimsizIf {
         if (not >= 60) System.out.println("D");
     }
 }
+
+/* Beklenen cikti:
+Bagimsiz if (not = 95):
+A
+B
+C
+else-if (not = 95):
+A
+Bagimsiz if (not = 85):
+B
+C
+D
+*/

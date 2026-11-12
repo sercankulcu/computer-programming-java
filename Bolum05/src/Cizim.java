@@ -12,3 +12,9 @@ public class Cizim {
         System.out.println("Son");
     }
 }
+
+/* Beklenen cikti:
+Ders: Java
+12
+Son
+*/

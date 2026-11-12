@@ -18,3 +18,8 @@ public class ArtirmaAzaltma {
         System.out.println(i + " " + a + " " + b);
     }
 }
+
+/* Beklenen cikti:
+6 5 7
+4 5 10
+*/

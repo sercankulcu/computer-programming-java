@@ -31,3 +31,12 @@ public class DuzensizDizi {
 		}
 	}
 }
+
+/* Beklenen cikti:
+1 2 3
+0
+1 2
+2 3 4
+6
+NullPointerException: m2[1] null
+*/

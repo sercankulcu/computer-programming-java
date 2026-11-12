@@ -23,3 +23,14 @@ public class BirdenNeToplam {
 		toplamIzle(2, 0);
 	}
 }
+
+/* Beklenen cikti:
+6
+15 1 0
+0 toplam(2) cagrildi
+1   toplam(1) cagrildi
+2     toplam(0) cagrildi
+2     toplam(0) dondu 0
+1   toplam(1) dondu 1
+0 toplam(2) dondu 3
+*/

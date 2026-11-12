@@ -44,3 +44,13 @@ public class Fibonacci {
 		}
 	}
 }
+
+/* Beklenen cikti:
+3
+0 1 1 2 3 5 8 13
+2
+fib(5) = 5, cagri = 15
+n = 10: fib = 55, cagri = 177, fibDongu = 55
+n = 20: fib = 6765, cagri = 21891, fibDongu = 6765
+n = 30: fib = 832040, cagri = 2692537, fibDongu = 832040
+*/

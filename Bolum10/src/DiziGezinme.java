@@ -55,3 +55,18 @@ public class DiziGezinme {
 		System.out.println();
 	}
 }
+
+/* Beklenen cikti:
+0: 70
+1: 88
+2: 90
+75
+93
+95
+70
+20 16
+2.4.5.7.8.
+2 4 6 8
+[3, 5, 7]
+18 12 6
+*/

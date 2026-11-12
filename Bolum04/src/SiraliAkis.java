@@ -36,3 +36,10 @@ public class SiraliAkis {
         System.out.println(saat + " " + kalan);      // 2 15
     }
 }
+
+/* Beklenen cikti:
+11
+15 9 6
+7 4
+2 15
+*/

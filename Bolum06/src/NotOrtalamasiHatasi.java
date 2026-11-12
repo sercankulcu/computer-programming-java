@@ -15,3 +15,10 @@ public class NotOrtalamasiHatasi {
         System.out.println((double) toplam / 3);   // diger duzeltme
     }
 }
+
+/* Beklenen cikti:
+81.0
+81.66666666666667
+81.0
+81.66666666666667
+*/

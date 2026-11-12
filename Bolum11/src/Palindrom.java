@@ -31,3 +31,8 @@ public class Palindrom {
 		System.out.println(palindrom2);  // true
 	}
 }
+
+/* Beklenen cikti:
+true
+true
+*/

@@ -30,3 +30,9 @@ public class FaktoriyelTasmasi {
         }
     }
 }
+
+/* Beklenen cikti:
+1932053504
+6227020800
+Hata: integer overflow
+*/

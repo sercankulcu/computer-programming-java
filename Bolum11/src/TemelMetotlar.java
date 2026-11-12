@@ -24,3 +24,13 @@ public class TemelMetotlar {
 		System.out.println("banana".replace("an", "AN"));           // bANANa
 	}
 }
+
+/* Beklenen cikti:
+Programlama 5
+16 true
+java programlama|bosluk|bosluk|
+[Ali Veli] 8
+ALi VeLi
+true
+bANANa
+*/

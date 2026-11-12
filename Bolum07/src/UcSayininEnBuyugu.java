@@ -31,3 +31,8 @@ public class UcSayininEnBuyugu {
         System.out.println("En kucuk: " + enK);
     }
 }
+
+/* Beklenen cikti:
+En buyuk: 9
+En kucuk: 2
+*/

@@ -77,3 +77,18 @@ public class KosulluIslemler {
 		System.out.println();
 	}
 }
+
+/* Beklenen cikti:
+160 89
+230
+[0, 3, 1, 3]
+12 20 12 14 16
+12 21 12
+8
+3 9
+25
+29
+21
+40 45 32 12 20 19 24 5 9 13
+60 30 48 18 30 19 36 5 6 13
+*/

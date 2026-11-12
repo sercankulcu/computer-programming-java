@@ -30,3 +30,9 @@ public class DizideOzyineleme {
 		System.out.println(enBuyuk(new int[]{3, 9, 1, 5}, 0));   // 9
 	}
 }
+
+/* Beklenen cikti:
+13
+3
+9
+*/

@@ -35,3 +35,13 @@ public class DoWhileDongusu {
         System.out.println("| " + n + " " + m);  // 5 | 6 5
     }
 }
+
+/* Beklenen cikti:
+Secim (1/0): 1
+Merhaba!
+Secim (1/0): 1
+Merhaba!
+Secim (1/0): 0
+Gule gule
+5 | 6 5
+*/

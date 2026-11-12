@@ -21,3 +21,8 @@ public class Ornek {
         selamlaStatic();         // cozum 2: metodu static yap
     }
 }
+
+/* Beklenen cikti:
+Merhaba
+Merhaba
+*/

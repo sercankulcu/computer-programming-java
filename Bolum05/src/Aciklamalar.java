@@ -16,3 +16,9 @@ public class Aciklamalar {
         //     /* dis /* ic */ kalan */
     }
 }
+
+/* Beklenen cikti:
+2
+6 // degil
+7 /* yorum degil * /
+*/

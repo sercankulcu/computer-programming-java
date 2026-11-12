@@ -24,3 +24,10 @@ public class UsHesapla {
         System.out.println(usHesapla(2.5, 2));   // 6.25
     }
 }
+
+/* Beklenen cikti:
+0.25
+1.0
+0.1
+6.25
+*/

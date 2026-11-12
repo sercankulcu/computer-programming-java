@@ -44,3 +44,11 @@ public class HanoiKuleleri {
 		System.out.println();
 	}
 }
+
+/* Beklenen cikti:
+A->C A->B C->B A->C B->A B->C A->C
+1: A -> B
+2: A -> C
+1: B -> C
+1 3 7 15 31
+*/

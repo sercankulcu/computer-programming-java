@@ -27,3 +27,8 @@ public class SesliHarfSayma {
 		System.out.println(sayac2);  // 3 (i, e, u)
 	}
 }
+
+/* Beklenen cikti:
+5
+3
+*/

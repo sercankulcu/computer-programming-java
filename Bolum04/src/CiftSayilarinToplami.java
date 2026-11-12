@@ -23,3 +23,15 @@ public class CiftSayilarinToplami {
         System.out.println("n = 0 -> " + ciftToplam(0, false));    // 0
     }
 }
+
+/* Beklenen cikti:
+baslangic: i = 2, toplam = 0
+tur 1: i = 4, toplam = 2
+tur 2: i = 6, toplam = 6
+tur 3: i = 8, toplam = 12
+tur 4: i = 10, toplam = 20
+tur 5: i = 12, toplam = 30
+n = 10 -> 30
+n = 7 -> 12
+n = 0 -> 0
+*/

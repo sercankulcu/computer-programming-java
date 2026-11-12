@@ -42,3 +42,32 @@ public class IkiliArama {
         dene(sirasiz, 5);  // -1 (5 dizide oldugu halde)
     }
 }
+
+/* Beklenen cikti:
+hedef = 34
+  tur 1: sol = 0, sag = 8, orta = 4, dizi[orta] = 21
+  tur 2: sol = 5, sag = 8, orta = 6, dizi[orta] = 30
+  tur 3: sol = 7, sag = 8, orta = 7, dizi[orta] = 34
+sonuc: 7
+hedef = 19
+  tur 1: sol = 0, sag = 7, orta = 3, dizi[orta] = 17
+  tur 2: sol = 4, sag = 7, orta = 5, dizi[orta] = 25
+  tur 3: sol = 4, sag = 4, orta = 4, dizi[orta] = 21
+  sol = 4, sag = 3: aralik bos
+sonuc: -1
+hedef = 27
+  tur 1: sol = 0, sag = 6, orta = 3, dizi[orta] = 14
+  tur 2: sol = 4, sag = 6, orta = 5, dizi[orta] = 27
+sonuc: 5
+hedef = 4
+  tur 1: sol = 0, sag = 6, orta = 3, dizi[orta] = 14
+  tur 2: sol = 0, sag = 2, orta = 1, dizi[orta] = 5
+  tur 3: sol = 0, sag = 0, orta = 0, dizi[orta] = 2
+  sol = 1, sag = 0: aralik bos
+sonuc: -1
+hedef = 5
+  tur 1: sol = 0, sag = 4, orta = 2, dizi[orta] = 9
+  tur 2: sol = 0, sag = 1, orta = 0, dizi[orta] = 7
+  sol = 0, sag = -1: aralik bos
+sonuc: -1
+*/

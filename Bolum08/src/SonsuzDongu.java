@@ -51,3 +51,14 @@ public class SonsuzDongu {
         }
     }
 }
+
+/* Beklenen cikti:
+tur 1: i = 1, sonuc = 1
+tur 2: i = 1, sonuc = 1
+tur 3: i = 1, sonuc = 1
+tur 4: i = 1, sonuc = 1
+tur 5: i = 1, sonuc = 1
+... i degismiyor, dongu sonsuza kadar surerdi
+Duzeltilmis: 120
+i-- ile i = -4, kosul hala true
+*/

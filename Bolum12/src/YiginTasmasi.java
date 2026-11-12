@@ -19,3 +19,9 @@ public class YiginTasmasi {
 		}
 	}
 }
+
+/* Not: bu programin ciktisi her calistirmada degisir (zaman olcumu, rastgele sayi ya da
+   is parcaciklarinin sirasi); asagidaki bir ornek calistirmadir. */
+/* Beklenen cikti:
+StackOverflowError yakalandi, ulasilan derinlik: 29450
+*/

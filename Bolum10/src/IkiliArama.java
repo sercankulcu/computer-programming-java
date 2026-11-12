@@ -33,3 +33,11 @@ public class IkiliArama {
 		System.out.println(ara(new int[]{3, 8, 11, 15, 20, 27, 31}, 11));   // 2
 	}
 }
+
+/* Beklenen cikti:
+lo=0 hi=7 mid=3 a[mid]=12
+lo=4 hi=7 mid=5 a[mid]=23
+5
+-3
+2
+*/

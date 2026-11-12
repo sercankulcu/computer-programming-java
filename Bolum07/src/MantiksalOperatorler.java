@@ -31,3 +31,11 @@ public class MantiksalOperatorler {
         }
     }
 }
+
+/* Beklenen cikti:
+Basvuru alinabilir
+yas=20 belgeVar=true -> false false
+yas=20 belgeVar=false -> true true
+yas=16 belgeVar=true -> true true
+yas=16 belgeVar=false -> true true
+*/

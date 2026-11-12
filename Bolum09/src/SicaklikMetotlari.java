@@ -18,3 +18,8 @@ public class SicaklikMetotlari {
         System.out.println(celsius(f));   // 25.0
     }
 }
+
+/* Beklenen cikti:
+77.0
+25.0
+*/

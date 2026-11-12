@@ -27,3 +27,17 @@ public class KarsilastirmaMetotlari {
 		System.out.println("abc".compareTo("abc"));      // 0
 	}
 }
+
+/* Beklenen cikti:
+true
+true
+true
+true
+4
+-3
+false
+4
+-3
+-32
+0
+*/

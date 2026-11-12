@@ -12,3 +12,9 @@ public class UnicodeUzunluk {
 		System.out.printf("%04X %04X%n", (int) emoji.charAt(0), (int) emoji.charAt(1));       // D83D DE00
 	}
 }
+
+/* Beklenen cikti:
+3
+2 1
+D83D DE00
+*/

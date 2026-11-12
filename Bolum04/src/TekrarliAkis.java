@@ -65,3 +65,14 @@ public class TekrarliAkis {
         System.out.println(sayi);   // 3
     }
 }
+
+/* Beklenen cikti:
+1 2 3 4 5
+1 4 7 10 (karar 5 kez, cikista i = 13)
+25
+012
+1 1 1 1 1 ... (sonsuz dongu, 5 turda kesildi)
+7: Gecersiz
+0: Gecersiz
+3
+*/

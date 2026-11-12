@@ -29,3 +29,10 @@ public class KabarcikSiralamasi {
 		System.out.println(Arrays.toString(b));   // [1, 4, 2, 3, 5]
 	}
 }
+
+/* Beklenen cikti:
+gecis 0: [1, 4, 2, 5]
+gecis 1: [1, 2, 4, 5]
+gecis 2: [1, 2, 4, 5]
+[1, 4, 2, 3, 5]
+*/

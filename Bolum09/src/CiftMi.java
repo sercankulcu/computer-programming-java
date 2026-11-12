@@ -20,3 +20,8 @@ public class CiftMi {
         System.out.println();
     }
 }
+
+/* Beklenen cikti:
+tek
+3 9
+*/

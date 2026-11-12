@@ -51,3 +51,12 @@ public class Kapsam {
         System.out.println(a + " " + b);   // 3 16
     }
 }
+
+/* Beklenen cikti:
+6
+4
+10
+4
+11
+3 16
+*/

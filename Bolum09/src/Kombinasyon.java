@@ -21,3 +21,8 @@ public class Kombinasyon {
         System.out.println(kombinasyon(5, 3));   // 10
     }
 }
+
+/* Beklenen cikti:
+6
+10
+*/

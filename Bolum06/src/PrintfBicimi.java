@@ -24,3 +24,10 @@ public class PrintfBicimi {
         System.out.println(String.format(new Locale("tr", "TR"), "Turkce ayar: %6.2f", 3.14159));
     }
 }
+
+/* Beklenen cikti:
+Ada         87.46
+Ada     |  3.14|00042
+Can   |  2.718|0007
+Turkce ayar:   3,14
+*/

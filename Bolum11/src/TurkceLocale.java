@@ -30,3 +30,15 @@ public class TurkceLocale {
 		System.out.println("title".equalsIgnoreCase("TITLE"));             // true
 	}
 }
+
+/* Beklenen cikti:
+title
+t\u0131tle
+\u0130
+I
+\u0131
+\u0131sparta
+ISPARTA
+false
+true
+*/

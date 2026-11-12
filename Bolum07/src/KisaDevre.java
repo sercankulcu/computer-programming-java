@@ -53,3 +53,15 @@ public class KisaDevre {
         System.out.println(k);   // 1
     }
 }
+
+/* Beklenen cikti:
+&& ile guvenli: kosul false
+& ile hata: / by zero
+(1) false sayac=1
+(2) false sayac=2
+(3) true sayac=1
+(4) true sayac=2
+B
+C
+1
+*/

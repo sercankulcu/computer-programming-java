@@ -28,3 +28,10 @@ public class HataTurleri {
         System.out.println((a + b) / 2);   // 80 (duzeltme)
     }
 }
+
+/* Beklenen cikti:
+Basla
+java.lang.ArithmeticException: / by zero
+115
+80
+*/

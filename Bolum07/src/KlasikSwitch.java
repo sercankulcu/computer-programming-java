@@ -47,3 +47,18 @@ public class KlasikSwitch {
         }
     }
 }
+
+/* Beklenen cikti:
+gun = 2:
+Sali
+Car
+gun = 1:
+Pzt
+Sali
+gun = 3:
+Car
+Per
+gun = 7:
+Yok
+Sali
+*/

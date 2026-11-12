@@ -60,3 +60,16 @@ public class Faktoriyel {
 		System.out.println(faktoriyelSoru3(-3));  // Sayi negatif olamaz. / 1
 	}
 }
+
+/* Beklenen cikti:
+24
+24
+120
+g3 g2 g1 d2 d3 6
+2432902008176640000
+-4249290049419214848
+faktoriyel(-1): IllegalArgumentException
+120
+Sayi negatif olamaz.
+1
+*/

@@ -24,3 +24,13 @@ public class TekCift {
         System.out.println(c % 2 != 0);    // false
     }
 }
+
+/* Beklenen cikti:
+17 -> Tek
+-4 -> Cift
+-1
+false
+true
+true
+false
+*/

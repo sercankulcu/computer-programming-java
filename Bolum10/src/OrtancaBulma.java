@@ -44,3 +44,12 @@ public class OrtancaBulma {
 		System.out.println(Arrays.toString(b) + " " + m2);              // [9, 2, 7, 4] 5.5
 	}
 }
+
+/* Beklenen cikti:
+5.5
+5.0
+[2, 4, 7, 9] 5.5
+3.0
+3.5
+[9, 2, 7, 4] 5.5
+*/

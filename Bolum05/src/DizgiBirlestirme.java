@@ -29,3 +29,17 @@ public class DizgiBirlestirme {
         System.out.println(s1 + a + b);
     }
 }
+
+/* Beklenen cikti:
+8
+5 + 3
+53
+85
+553
+2314
+1234
+46
+1212
+4612
+121234
+*/

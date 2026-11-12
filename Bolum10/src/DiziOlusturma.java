@@ -34,3 +34,11 @@ public class DiziOlusturma {
 		System.out.println(a.length + d.length + s.length);               // 3 + 2 + 2 = 7
 	}
 }
+
+/* Beklenen cikti:
+5 3 10
+4 3
+70 90
+0 0.0 false null
+7
+*/

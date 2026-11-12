@@ -21,3 +21,8 @@ public class BreakContinue {
         System.out.println("| son");
     }
 }
+
+/* Beklenen cikti:
+1 2 4 5 7 | bitti
+1 2 3 5 6 7 9 | son
+*/

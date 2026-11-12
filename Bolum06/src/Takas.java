@@ -23,3 +23,9 @@ public class Takas {
         System.out.println(a + " " + b);   // 8 5
     }
 }
+
+/* Beklenen cikti:
+8 8
+8 5
+8 5
+*/

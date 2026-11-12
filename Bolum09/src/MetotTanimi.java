@@ -15,3 +15,7 @@ public class MetotTanimi {
         System.out.println(toplam);   // 8
     }
 }
+
+/* Beklenen cikti:
+8
+*/

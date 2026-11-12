@@ -55,3 +55,19 @@ public class KosulluAkis {
         for (int a : girdiler) icIceKarar(a);
     }
 }
+
+/* Beklenen cikti:
+not = 72: Gecti
+not = 45: Kaldi
+not = 60: Gecti
+x = 3: B
+x = 8: A
+7: Tek
+15: Tek
+0: Cift
+21: Tek
+a = 6: Cift
+a = 0: Degil
+a = -3: Degil
+a = 7: Tek
+*/

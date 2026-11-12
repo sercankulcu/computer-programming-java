@@ -30,3 +30,11 @@ public class SayacVeBiriktirici {
         System.out.println(toplam + " " + sayac);   // 11 3
     }
 }
+
+/* Beklenen cikti:
+1. tur: x = 4, sayac = 1, toplam = 4
+2. tur: x = 7, sayac = 2, toplam = 11
+3. tur: x = 2, sayac = 3, toplam = 13
+13
+11 3
+*/

@@ -15,3 +15,8 @@ public class DogrusalArama {
 		System.out.println(ara(d, 5));   // -1 (Soru 30)
 	}
 }
+
+/* Beklenen cikti:
+2
+-1
+*/

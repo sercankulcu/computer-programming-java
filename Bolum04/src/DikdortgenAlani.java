@@ -23,3 +23,16 @@ public class DikdortgenAlani {
         }
     }
 }
+
+/* Beklenen cikti:
+en = 3, boy = 4
+Alan: 12
+Cevre: 14
+en = -2, boy = 4
+Gecersiz olcu
+en = 0, boy = 5
+Gecersiz olcu
+en = 5, boy = 2
+Alan: 10
+Cevre: 14
+*/

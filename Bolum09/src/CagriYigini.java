@@ -40,3 +40,10 @@ public class CagriYigini {
         System.out.println(r + " " + sayac);     // 12 2
     }
 }
+
+/* Beklenen cikti:
+8
+6
+f1 f2 6
+12 2
+*/

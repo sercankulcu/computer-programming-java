@@ -16,3 +16,8 @@ public class SiraliIslemler {
         System.out.println(t * yk / 2 + " " + t / 2 * yk); // 10 9  (21/2=10, 3*3=9)
     }
 }
+
+/* Beklenen cikti:
+20.0
+10 9
+*/

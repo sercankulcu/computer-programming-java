@@ -23,3 +23,13 @@ public class StringKarsilastirma {
         System.out.println(c.equals("Ders")); // false
     }
 }
+
+/* Beklenen cikti:
+true
+false
+true
+true
+false
+true
+false
+*/

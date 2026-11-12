@@ -11,3 +11,12 @@ public class Tablo {
         System.out.print("A\nB\n");
     }
 }
+
+/* Beklenen cikti:
+Ders	Kredi
+Java	4
+Yol: C:\ders
+O "tamam" dedi
+A
+B
+*/

@@ -73,3 +73,14 @@ public class ForDongusu {
         System.out.println();
     }
 }
+
+/* Beklenen cikti:
+10
+28
+2 5 8
+----
+25
+15
+6 36 216
+12 72 432
+*/

@@ -19,3 +19,7 @@ public class BekciDeger {
         sc.close();
     }
 }
+
+/* Beklenen cikti:
+Toplam: 18
+*/

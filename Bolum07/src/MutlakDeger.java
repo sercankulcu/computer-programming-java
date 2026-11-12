@@ -21,3 +21,9 @@ public class MutlakDeger {
         System.out.println(sayi < 0);    // true
     }
 }
+
+/* Beklenen cikti:
+8
+-2147483648
+true
+*/

@@ -23,3 +23,9 @@ public class BasamakSayisiMetodu {
         System.out.println(basamakSayisi(Integer.MIN_VALUE));  // 10
     }
 }
+
+/* Beklenen cikti:
+3
+1
+10
+*/

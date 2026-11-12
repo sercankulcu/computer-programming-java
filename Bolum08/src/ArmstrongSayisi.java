@@ -27,3 +27,8 @@ public class ArmstrongSayisi {
         System.out.println();
     }
 }
+
+/* Beklenen cikti:
+true
+153 370 371 407
+*/

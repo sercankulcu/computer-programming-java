@@ -30,3 +30,16 @@ public class BirlestirmeVeChar {
 		System.out.println('a' + 'b');           // 97 + 98 = 195
 	}
 }
+
+/* Beklenen cikti:
+1234
+46
+1234
+712
+2314
+3345
+98
+b
+a1
+195
+*/

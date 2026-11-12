@@ -22,3 +22,11 @@ public class DoubleSayac {
         System.out.println(sayac); // 10
     }
 }
+
+/* Beklenen cikti:
+tur 9: x = 0.7999999999999999
+tur 10: x = 0.8999999999999999
+tur 11: x = 0.9999999999999999
+11
+10
+*/

@@ -68,3 +68,16 @@ public class UsAlma {
 		System.out.println(d + " us cagri: " + cagriSayisi);        // 43046721, 17
 	}
 }
+
+/* Beklenen cikti:
+16
+1024
+32.0
+0.125
+1.0
+0.0625
+0.25 27.0
+us(2, -1): StackOverflowError
+43046721 hizliUs cagri: 6
+43046721 us cagri: 17
+*/

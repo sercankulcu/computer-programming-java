@@ -38,3 +38,11 @@ public class DegereGoreAktarim {
         System.out.println(a);         // 15
     }
 }
+
+/* Beklenen cikti:
+5
+ic: 8
+dis: 4
+5
+15
+*/

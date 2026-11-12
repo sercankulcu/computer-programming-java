@@ -22,3 +22,8 @@ public class IfElse {
         klavye.close();
     }
 }
+
+/* Beklenen cikti:
+75 -> Gecti
+45 -> Kaldi
+*/

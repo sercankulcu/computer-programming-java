@@ -19,3 +19,9 @@ public class EklemeliSiralama {
 		}
 	}
 }
+
+/* Beklenen cikti:
+i=1: [3, 4, 5, 1]
+i=2: [3, 4, 5, 1]
+i=3: [1, 3, 4, 5]
+*/

@@ -48,3 +48,13 @@ public class Fibonacci {
         hataliSira(6);    // 0 1 2 4 8 16 (dogrusu 0 1 1 2 3 5)
     }
 }
+
+/* Beklenen cikti:
+0 1 1 2 3 5 8 13
+Tur 0: yazilan = 0, sonraki = 1, a = 1, b = 1
+Tur 1: yazilan = 1, sonraki = 2, a = 1, b = 2
+Tur 2: yazilan = 1, sonraki = 3, a = 2, b = 3
+Tur 3: yazilan = 2, sonraki = 5, a = 3, b = 5
+Tur 4: yazilan = 3, sonraki = 8, a = 5, b = 8
+0 1 2 4 8 16
+*/

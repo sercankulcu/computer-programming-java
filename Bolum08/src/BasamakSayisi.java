@@ -33,3 +33,11 @@ public class BasamakSayisi {
         }
     }
 }
+
+/* Beklenen cikti:
+3
+0 -> 1
+7 -> 1
+12345 -> 5
+-507 -> 3
+*/

@@ -33,3 +33,13 @@ public class ZarHistogrami {
 		System.out.println(d.length + " " + Arrays.toString(d));
 	}
 }
+
+/* Beklenen cikti:
+1: *
+2:
+3: ***
+4:
+5:
+6: **
+5 [30, 63, 48, 84, 70]
+*/

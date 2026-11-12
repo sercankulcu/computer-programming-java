@@ -25,3 +25,18 @@ public class BolmeOrnekleri {
         System.out.println((double) (a / b));
     }
 }
+
+/* Beklenen cikti:
+2
+2.5
+2.5
+2.5
+2.0
+1
+6
+6
+1
+6.5
+6.5
+6.0
+*/

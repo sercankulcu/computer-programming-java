@@ -39,3 +39,11 @@ public class DegiskenlerBellekte {
         System.out.println(toplamPuan + _deger + $tutar);
     }
 }
+
+/* Beklenen cikti:
+21
+87.5
+7 42 8000000000 1.5 19.9 A true 100
+5 65.0 10.0
+6
+*/

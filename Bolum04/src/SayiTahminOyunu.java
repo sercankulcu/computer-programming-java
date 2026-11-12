@@ -48,3 +48,20 @@ public class SayiTahminOyunu {
         besDenemeli("10 90 30 40 35");
     }
 }
+
+/* Beklenen cikti:
+Daha kucuk
+Daha buyuk
+Bildin (3. deneme)
+---
+Daha buyuk
+Daha kucuk
+Bildin (3. deneme)
+---
+Daha buyuk
+Daha kucuk
+Daha buyuk
+Daha kucuk
+Daha buyuk
+Kaybettin
+*/

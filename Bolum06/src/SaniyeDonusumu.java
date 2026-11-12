@@ -28,3 +28,10 @@ public class SaniyeDonusumu {
         System.out.println(toplam);
     }
 }
+
+/* Beklenen cikti:
+1:02:05
+2:03:04
+15 lira 75 kurus
+10
+*/

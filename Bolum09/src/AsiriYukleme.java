@@ -41,3 +41,13 @@ public class AsiriYukleme {
         yaz(7L);                          // long -> double: double 7.0
     }
 }
+
+/* Beklenen cikti:
+16
+15
+int 5
+double 5.0
+iki 7
+int 65
+double 7.0
+*/

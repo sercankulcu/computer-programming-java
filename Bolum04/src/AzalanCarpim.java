@@ -35,3 +35,9 @@ public class AzalanCarpim {
         System.out.println();
     }
 }
+
+/* Beklenen cikti:
+6 30 120 360
+6 36 216
+7 42 210 840
+*/

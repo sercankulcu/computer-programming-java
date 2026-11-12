@@ -30,3 +30,9 @@ public class StringBuilderOrnek {
 		System.out.println(birlesik + " " + tampon + " " + birlesik.equals(tampon.toString()));
 	}
 }
+
+/* Beklenen cikti:
+1 2 3 |
+ab1-2-3- -3-2-1ba
+0123456789 0123456789 true
+*/

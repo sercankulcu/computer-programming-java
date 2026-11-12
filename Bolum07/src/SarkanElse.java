@@ -43,3 +43,10 @@ public class SarkanElse {
         System.out.println(x);   // 9
     }
 }
+
+/* Beklenen cikti:
+0
+2
+2
+9
+*/

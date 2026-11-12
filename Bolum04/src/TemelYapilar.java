@@ -48,3 +48,13 @@ public class TemelYapilar {
         System.out.println(a + b);   // 25
     }
 }
+
+/* Beklenen cikti:
+9
+10
+7 4 1 -2 bitti
+15
+27
+5
+25
+*/

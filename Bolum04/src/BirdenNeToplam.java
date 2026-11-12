@@ -45,3 +45,13 @@ public class BirdenNeToplam {
         System.out.println("carpim = 1 ile n = 4 -> " + carpim(4, 1));   // 24
     }
 }
+
+/* Beklenen cikti:
+6
+n = 4 -> 10 (formul n(n+1)/2 = 10)
+n = 0 -> 0
+n = 1 -> 1
+n = 5 -> 15
+carpim = 0 ile n = 4 -> 0
+carpim = 1 ile n = 4 -> 24
+*/

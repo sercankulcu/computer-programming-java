@@ -25,3 +25,9 @@ public class KuyrukOzyinelemesi {
 		// Not: Java kuyruk cagrisi optimizasyonunu garanti etmez; her cagri yine yeni bir yigin cercevesi acar.
 	}
 }
+
+/* Beklenen cikti:
+24
+fakt(4, 1) -> fakt(3, 4) -> fakt(2, 12) -> fakt(1, 24)
+24
+*/

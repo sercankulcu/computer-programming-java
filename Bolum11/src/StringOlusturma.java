@@ -38,3 +38,14 @@ public class StringOlusturma {
 		}
 	}
 }
+
+/* Beklenen cikti:
+Tarkan 0 true null
+A A
+7 G n
+7 Gn
+3 4 -1
+215
+3 2
+StringIndexOutOfBoundsException: Index 7 out of bounds for length 7
+*/

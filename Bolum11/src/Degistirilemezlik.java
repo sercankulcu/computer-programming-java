@@ -27,3 +27,11 @@ public class Degistirilemezlik {
 		System.out.println(t);             // JAVA?
 	}
 }
+
+/* Beklenen cikti:
+java
+JAVA
+Merhaba! Merhaba false
+java
+JAVA?
+*/

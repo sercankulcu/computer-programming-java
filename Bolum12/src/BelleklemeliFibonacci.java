@@ -28,3 +28,9 @@ public class BelleklemeliFibonacci {
 		System.out.println("fib(50) = " + fib(50, new long[51]) + ", cagri = " + cagriSayisi);
 	}
 }
+
+/* Beklenen cikti:
+5
+fib(6) = 8, cagri = 11
+fib(50) = 12586269025, cagri = 99
+*/

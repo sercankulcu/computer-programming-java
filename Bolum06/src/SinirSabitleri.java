@@ -24,3 +24,13 @@ public class SinirSabitleri {
         }
     }
 }
+
+/* Beklenen cikti:
+Integer.MIN_VALUE = -2147483648
+Integer.MAX_VALUE = 2147483647
+Long.MIN_VALUE = -9223372036854775808
+Long.MAX_VALUE = 9223372036854775807
+-2147483648
+ArithmeticException: integer overflow
+ArithmeticException: long overflow
+*/

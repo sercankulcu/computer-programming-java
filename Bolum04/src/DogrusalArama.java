@@ -31,3 +31,10 @@ public class DogrusalArama {
         dene(dizi2, 5);  // -1
     }
 }
+
+/* Beklenen cikti:
+ara(dizi, 5) -> 3 (4 karsilastirma)
+ara(dizi, 4) -> -1 (5 karsilastirma)
+ara(dizi, 16) -> 3 (4 karsilastirma)
+ara(dizi, 5) -> -1 (6 karsilastirma)
+*/

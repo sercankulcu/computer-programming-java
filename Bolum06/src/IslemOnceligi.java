@@ -22,3 +22,11 @@ public class IslemOnceligi {
         System.out.println(2 + 3 * 4 > 10 && 7 % 2 == 1);
     }
 }
+
+/* Beklenen cikti:
+true
+true
+7
+9
+true
+*/

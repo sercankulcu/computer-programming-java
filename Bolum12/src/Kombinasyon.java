@@ -30,3 +30,9 @@ public class Kombinasyon {
 		System.out.println("bellekli  C(30, 15) = " + b + ", cagri = " + cagriSayisi);
 	}
 }
+
+/* Beklenen cikti:
+C(5, 2) = 10
+belleksiz C(30, 15) = 155117520, cagri = 310235039
+bellekli  C(30, 15) = 155117520, cagri = 451
+*/

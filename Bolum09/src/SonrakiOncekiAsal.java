@@ -51,3 +51,14 @@ public class SonrakiOncekiAsal {
         System.out.println(oncekiAsal(2));     // -1
     }
 }
+
+/* Beklenen cikti:
+14 asal degil
+15 asal degil
+16 asal degil
+17 asal
+97
+19
+2
+-1
+*/

@@ -18,3 +18,8 @@ public class OzyinelemeliIkiliArama {
 		System.out.println(ara(a, 7, 0, a.length - 1));   // -1
 	}
 }
+
+/* Beklenen cikti:
+6
+-1
+*/

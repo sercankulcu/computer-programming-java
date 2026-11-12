@@ -40,3 +40,12 @@ public class HarfNotu {
         else System.out.println("F");
     }
 }
+
+/* Beklenen cikti:
+95 A
+85 B
+72 C
+40 F
+D
+D
+*/

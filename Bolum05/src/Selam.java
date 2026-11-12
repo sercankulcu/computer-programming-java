@@ -10,3 +10,8 @@ public class Selam {
         System.out.println("Java");
     }
 }
+
+/* Beklenen cikti:
+Merhaba Dunya
+Java
+*/

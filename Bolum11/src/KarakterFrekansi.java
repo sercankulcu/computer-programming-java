@@ -26,3 +26,10 @@ public class KarakterFrekansi {
 		System.out.println();
 	}
 }
+
+/* Beklenen cikti:
+a: 2
+k: 2
+v: 1
+a3 n2 s1
+*/

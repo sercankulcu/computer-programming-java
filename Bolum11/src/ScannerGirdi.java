@@ -21,3 +21,8 @@ public class ScannerGirdi {
 		System.out.println(kelime2 + "|" + satir2 + "|");   // Ada||
 	}
 }
+
+/* Beklenen cikti:
+Ada | Giresun Merkez
+Ada||
+*/

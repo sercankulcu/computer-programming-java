@@ -11,3 +11,11 @@ public class Kacis {
         System.out.print("Satir 1\nSatir 2\n");
     }
 }
+
+/* Beklenen cikti:
+Ad	Not
+Ali	85
+"Java" dili
+Satir 1
+Satir 2
+*/

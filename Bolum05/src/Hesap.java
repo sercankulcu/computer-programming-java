@@ -13,3 +13,8 @@ public class Hesap {
         System.out.println(c);
     }
 }
+
+/* Beklenen cikti:
+Pozitif
+5
+*/

@@ -18,3 +18,8 @@ public class SwapTuzagi {
         System.out.println(x + " " + y);   // 3 5
     }
 }
+
+/* Beklenen cikti:
+swap ici: 5 3
+3 5
+*/

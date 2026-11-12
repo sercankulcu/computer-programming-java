@@ -21,3 +21,10 @@ public class SwitchYield {
         }
     }
 }
+
+/* Beklenen cikti:
+Subat
+29
+Subat
+28
+*/

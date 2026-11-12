@@ -21,3 +21,8 @@ public class KelimeSayma {
 		System.out.println(s.trim().split(" +").length);   // 3
 	}
 }
+
+/* Beklenen cikti:
+3
+3
+*/

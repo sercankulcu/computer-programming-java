@@ -29,3 +29,10 @@ public class ForEsnekBicimler {
         System.out.println(i);  // 6
     }
 }
+
+/* Beklenen cikti:
+3
+0 1 2
+0 1 2
+6
+*/

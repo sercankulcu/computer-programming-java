@@ -13,3 +13,8 @@ public class IkiliyeCevirme {
 		System.out.println(Integer.toBinaryString(13) + " " + ikili(255) + " " + ikili(0));   // 1101 11111111 0
 	}
 }
+
+/* Beklenen cikti:
+1101 110 1
+1101 11111111 0
+*/

@@ -34,3 +34,13 @@ public class Tasma {
         System.out.println(Math.abs(Integer.MIN_VALUE));
     }
 }
+
+/* Beklenen cikti:
+-2147483648 -128
+-127
+127 -32767
+-2147483648
+-2147483648
+2147483648
+-2147483648
+*/

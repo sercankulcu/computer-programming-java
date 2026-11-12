@@ -42,3 +42,12 @@ public class NotOrtalamasi {
         }
     }
 }
+
+/* Beklenen cikti:
+Ortalama: 185
+Ortalama: 81.67
+Gecti: 81.67
+Kaldi: 52.33
+Merhaba
+Calisma zamani hatasi: / by zero
+*/

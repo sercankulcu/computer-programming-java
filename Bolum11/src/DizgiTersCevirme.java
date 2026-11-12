@@ -21,3 +21,9 @@ public class DizgiTersCevirme {
 		System.out.println(ters2);                 // udrO
 	}
 }
+
+/* Beklenen cikti:
+avaJ
+avaJ
+udrO
+*/

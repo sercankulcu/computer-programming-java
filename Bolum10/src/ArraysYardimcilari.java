@@ -33,3 +33,20 @@ public class ArraysYardimcilari {
 		System.out.println(Arrays.binarySearch(new int[]{2, 4, 6, 8}, 5));   // -3
 	}
 }
+
+/* Beklenen cikti:
+[5, 2, 9]
+[[1, 2], [3, 4]]
+[[I@28a418fc, [I@5305068a]
+[7, 7, 7, 7]
+false / false
+true
+true
+[5, 2, 9, 0, 0]
+[5, 2]
+[20, 30, 40]
+[1, 2, 5, 7, 9]
+3
+-4
+-3
+*/

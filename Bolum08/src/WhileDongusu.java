@@ -51,3 +51,11 @@ public class WhileDongusu {
         System.out.println();                    // 7 42 210 840
     }
 }
+
+/* Beklenen cikti:
+120
+2345
+012
+6 30 120 360
+7 42 210 840
+*/

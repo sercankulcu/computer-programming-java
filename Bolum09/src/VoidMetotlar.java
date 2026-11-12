@@ -17,3 +17,8 @@ public class VoidMetotlar {
         cizgiCiz(3);              // ---
     }
 }
+
+/* Beklenen cikti:
+-----
+---
+*/

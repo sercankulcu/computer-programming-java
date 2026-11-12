@@ -12,3 +12,10 @@ public class OndalikKarsilastirma {
         System.out.println("fark = " + (a - 0.3));   // yaklasik 5.55E-17
     }
 }
+
+/* Beklenen cikti:
+0.30000000000000004
+false
+true
+fark = 5.551115123125783E-17
+*/

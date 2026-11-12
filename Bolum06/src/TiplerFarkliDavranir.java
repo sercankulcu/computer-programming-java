@@ -26,3 +26,16 @@ public class TiplerFarkliDavranir {
         System.out.println(s1 + 1 * 2);
     }
 }
+
+/* Beklenen cikti:
+5
+23
+Sonuc: 23
+Sonuc: 5
+1234
+2314
+323
+2312
+233
+232
+*/

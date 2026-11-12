@@ -31,3 +31,10 @@ public class Palindrom {
         }
     }
 }
+
+/* Beklenen cikti:
+"Kayak" -> true (2 karsilastirma)
+"Kayik" -> false (2 karsilastirma)
+"abcdefedcba" -> true (5 karsilastirma)
+"Ey Edip Adanada pide ye" -> true (9 karsilastirma)
+*/

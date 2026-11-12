@@ -24,3 +24,10 @@ public class SafMetot {
                 + Math.sqrt(16) + " " + Math.pow(2, 10) + " " + Math.round(2.5));
     }
 }
+
+/* Beklenen cikti:
+16
+25
+16
+7 9 4.0 1024.0 3
+*/

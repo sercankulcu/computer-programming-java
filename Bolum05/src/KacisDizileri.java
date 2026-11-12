@@ -23,3 +23,15 @@ public class KacisDizileri {
         System.out.println("Dosya: C:\\yeni");   // Dosya: C:\yeni
     }
 }
+
+/* Beklenen cikti:
+Ad	Not
+C:\ders\java
+"Merhaba"
+1
+2
+A\nB
+x	y
+1	2\t
+Dosya: C:\yeni
+*/

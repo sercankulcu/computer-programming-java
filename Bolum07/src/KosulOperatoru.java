@@ -23,3 +23,10 @@ public class KosulOperatoru {
         System.out.println(c > d ? "a" : c < d ? "b" : "esit");   // esit
     }
 }
+
+/* Beklenen cikti:
+12
+7 tek
+-
+esit
+*/

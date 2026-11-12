@@ -17,3 +17,10 @@ public class Ort {
         System.out.println((a + b) / 2); // 70
     }
 }
+
+/* Beklenen cikti:
+6
+6.5
+100
+70
+*/

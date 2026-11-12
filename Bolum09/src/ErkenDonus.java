@@ -42,3 +42,10 @@ public class ErkenDonus {
             + faktoriyel(sayi));
     }
 }
+
+/* Beklenen cikti:
+7
+-1 0 1
+Sayi negatif olamaz.
+-3 sayisinin faktoriyeli: 1
+*/

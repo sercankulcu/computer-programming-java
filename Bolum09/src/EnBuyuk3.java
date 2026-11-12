@@ -17,3 +17,7 @@ public class EnBuyuk3 {
         System.out.println(enBuyuk3(4, 9, 7));   // 9
     }
 }
+
+/* Beklenen cikti:
+9
+*/

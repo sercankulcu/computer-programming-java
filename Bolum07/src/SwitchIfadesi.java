@@ -23,3 +23,11 @@ public class SwitchIfadesi {
         klavye.close();
     }
 }
+
+/* Beklenen cikti:
+1 Kis
+4 Ilkbahar
+7 Yaz
+10 Sonbahar
+13 Gecersiz
+*/

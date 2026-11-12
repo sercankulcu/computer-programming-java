@@ -66,3 +66,39 @@ public class IcIceDongu {
         }
     }
 }
+
+/* Beklenen cikti:
+1 2
+2 4
+--- Soru 22 ---
+i: 1 j: 1
+i: 1 j: 3
+i: 2 j: 1
+i: 2 j: 3
+i: 3 j: 1
+i: 3 j: 3
+--- Soru 23 ---
+i: 1 j: 1
+i: 1 j: 2
+i: 2 j: 1
+i: 2 j: 2
+i: 4 j: 1
+i: 4 j: 2
+--- Soru 24 ---
+*
+**
+***
+****
+10 yildiz
+--- Soru 25 ---
+*-----
+**----
+***---
+****--
+*****-
+--- Soru 26 ---
+i: 2 j: 2
+i: 2 j: 3
+i: 3 j: 2
+i: 3 j: 3
+*/

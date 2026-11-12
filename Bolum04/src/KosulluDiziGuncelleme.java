@@ -31,3 +31,8 @@ public class KosulluDiziGuncelleme {
         yaz(dizi2);
     }
 }
+
+/* Beklenen cikti:
+40 45 32 12 20 19 24 5 9 13
+60 30 48 18 30 19 36 5 6 13
+*/

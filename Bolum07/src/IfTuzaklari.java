@@ -43,3 +43,14 @@ public class IfTuzaklari {
         System.out.println("C");
     }
 }
+
+/* Beklenen cikti:
+B
+A
+buyuk degil
+en az 5
+Pozitif
+Bitti
+B
+C
+*/

@@ -28,3 +28,17 @@ public class TipDonusumu {
         System.out.println((int) -2.7 + " " + Math.round(-2.7));    // -2 -3
     }
 }
+
+/* Beklenen cikti:
+7.0 9 9.8 2 2.5
+-56
+-1294967296
+3
+-2
+2147483647
+4
+-3
+39000000000
+-56 -126
+-2 -3
+*/

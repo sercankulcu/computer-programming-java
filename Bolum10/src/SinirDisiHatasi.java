@@ -36,3 +36,14 @@ public class SinirDisiHatasi {
 		}
 	}
 }
+
+/* Beklenen cikti:
+4
+8
+6
+Hata: Index 3 out of bounds for length 3
+4 8 6
+1 2 3 4 5
+Hata: Index 5 out of bounds for length 5
+Hata: Index -1 out of bounds for length 3
+*/

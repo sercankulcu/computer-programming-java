@@ -27,3 +27,21 @@ public class EtiketliBreak {
         System.out.println("bitti");
     }
 }
+
+/* Beklenen cikti:
+Etiketli break:
+1 1
+1 2
+1 3
+2 1
+bitti
+Duz break:
+1 1
+1 2
+1 3
+2 1
+3 1
+3 2
+3 3
+bitti
+*/

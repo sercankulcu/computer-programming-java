@@ -16,3 +16,10 @@ public class KarmaIfade {
         System.out.println(a2 / 4.0 * 1.5 + a2 % b2); // 4.375
     }
 }
+
+/* Beklenen cikti:
+7.0
+8.0
+4.0
+4.375
+*/

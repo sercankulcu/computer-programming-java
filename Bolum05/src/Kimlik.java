@@ -16,3 +16,15 @@ public class Kimlik {
         System.out.println("Fizik\t3");
     }
 }
+
+/* Beklenen cikti:
+Ada Yilmaz
+Bilgisayar Muhendisligi
+2026001
+Ada Yilmaz
+Bilgisayar Muhendisligi
+2026001
+Ders	Kredi
+Java	4
+Fizik	3
+*/

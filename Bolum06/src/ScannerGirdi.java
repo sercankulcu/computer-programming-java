@@ -27,3 +27,10 @@ public class ScannerGirdi {
         System.out.println("[" + ad + "]");
     }
 }
+
+/* Beklenen cikti:
+Yas: Ad:
+yas = 20, ad = [Ada Yilmaz]
+Yas: Ad:
+[]
+*/

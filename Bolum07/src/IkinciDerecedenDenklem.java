@@ -28,3 +28,9 @@ public class IkinciDerecedenDenklem {
         klavye.close();
     }
 }
+
+/* Beklenen cikti:
+a=1.0 b=-5.0 c=6.0 -> 3.0 ve 2.0
+a=1.0 b=2.0 c=1.0 -> -1.0
+a=1.0 b=0.0 c=1.0 -> Reel kok yok
+*/

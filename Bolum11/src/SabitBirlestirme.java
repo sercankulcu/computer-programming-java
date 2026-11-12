@@ -20,3 +20,15 @@ public class SabitBirlestirme {
 		System.out.println("D) " + (new String("ab") == "ab"));      // false
 	}
 }
+
+/* Beklenen cikti:
+true
+true
+false
+true
+true
+A) true
+B) false
+C) false
+D) false
+*/

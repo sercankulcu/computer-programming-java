@@ -36,3 +36,21 @@ public class KabarcikSiralamasi {
         kabarcikSirala(new int[] {1, 2, 3, 4, 5});
     }
 }
+
+/* Beklenen cikti:
+baslangic: [5, 1, 4, 2, 8]
+1. gecis -> [1, 4, 2, 5, 8], degisti = true
+2. gecis -> [1, 2, 4, 5, 8], degisti = true
+3. gecis -> [1, 2, 4, 5, 8], degisti = false
+toplam 3 gecis, 9 karsilastirma
+
+baslangic: [6, 2, 8, 3]
+1. gecis -> [2, 6, 3, 8], degisti = true
+2. gecis -> [2, 3, 6, 8], degisti = true
+3. gecis -> [2, 3, 6, 8], degisti = false
+toplam 3 gecis, 6 karsilastirma
+
+baslangic: [1, 2, 3, 4, 5]
+1. gecis -> [1, 2, 3, 4, 5], degisti = false
+toplam 1 gecis, 4 karsilastirma
+*/

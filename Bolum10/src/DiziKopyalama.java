@@ -36,3 +36,12 @@ public class DiziKopyalama {
 		System.out.println(Arrays.toString(hedef));   // [0, 1, 2, 3, 0]
 	}
 }
+
+/* Beklenen cikti:
+99
+2 50
+9 7 50 3
+[2, 3, 0]
+false
+[0, 1, 2, 3, 0]
+*/

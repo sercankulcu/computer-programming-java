@@ -22,3 +22,10 @@ public class ArtikYil {
         klavye.close();
     }
 }
+
+/* Beklenen cikti:
+2024 artik yil
+1900 normal yil
+2000 artik yil
+2023 normal yil
+*/

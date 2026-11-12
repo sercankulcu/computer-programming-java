@@ -46,3 +46,12 @@ public class ToplamVeOrtalama {
 		System.out.println(ortalamaHesapla(new int[0]));                   // NaN
 	}
 }
+
+/* Beklenen cikti:
+19 4.75
+70.0 3
+4.0
+4.75
+5.5
+NaN
+*/

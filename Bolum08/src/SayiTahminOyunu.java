@@ -25,3 +25,11 @@ public class SayiTahminOyunu {
         klavye.close();
     }
 }
+
+/* Beklenen cikti:
+Tahmin 50: Asagi
+Tahmin 25: Yukari
+Tahmin 37: Asagi
+Tahmin 31: Dogru!
+4. denemede bildin
+*/

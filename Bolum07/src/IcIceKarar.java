@@ -43,3 +43,12 @@ public class IcIceKarar {
         }
     }
 }
+
+/* Beklenen cikti:
+yas=20, ehliyet=true -> Arac kullanabilir
+yas=20, ehliyet=false -> Once ehliyet almali
+yas=16, ehliyet=true -> Yas yetersiz
+Giris
+Bilet al
+Veliyle gel
+*/

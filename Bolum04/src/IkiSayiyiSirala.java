@@ -41,3 +41,11 @@ public class IkiSayiyiSirala {
         ucSayiyiSirala(9, 2, 5); // 2 5 9
     }
 }
+
+/* Beklenen cikti:
+3 7
+2 9
+5 5
+3 3
+2 5 9
+*/

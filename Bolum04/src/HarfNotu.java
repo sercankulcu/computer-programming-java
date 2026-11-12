@@ -39,3 +39,14 @@ public class HarfNotu {
         }
     }
 }
+
+/* Beklenen cikti:
+85 -> hatali: B, duzeltilmis: B
+60 -> hatali: D, duzeltilmis: D
+55 -> hatali: F, duzeltilmis: E
+42 -> hatali: F, duzeltilmis: F
+not = 72: >= 60 -> Gecti, > 60 -> Gecti
+not = 45: >= 60 -> Kaldi, > 60 -> Kaldi
+not = 100: >= 60 -> Gecti, > 60 -> Gecti
+not = 60: >= 60 -> Gecti, > 60 -> Kaldi
+*/

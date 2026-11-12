@@ -24,3 +24,9 @@ public class EbobEkok {
         System.out.println(ebob(84, 36) + " " + ekok(4, 6));   // 12 12
     }
 }
+
+/* Beklenen cikti:
+6
+36
+12 12
+*/

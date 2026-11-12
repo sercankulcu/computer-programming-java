@@ -34,3 +34,9 @@ public class KisaDevre {
         }
     }
 }
+
+/* Beklenen cikti:
+Oran buyuk
+Oran kucuk
+Ters sira: ArithmeticException: / by zero
+*/

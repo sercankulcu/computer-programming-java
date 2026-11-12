@@ -42,3 +42,13 @@ public class IkiBoyutluDizi {
 		System.out.println();
 	}
 }
+
+/* Beklenen cikti:
+6
+1 2 3
+4 5 6
+2 3
+8
+[30, 5, 6]
+6 15
+*/

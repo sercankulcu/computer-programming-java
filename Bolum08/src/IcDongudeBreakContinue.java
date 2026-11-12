@@ -92,3 +92,44 @@ public class IcDongudeBreakContinue {
         }
     }
 }
+
+/* Beklenen cikti:
+--- Soru 19
+i: 1 j: 1
+i: 1 j: 3
+i: 2 j: 1
+i: 2 j: 3
+i: 3 j: 1
+i: 3 j: 3
+--- Soru 20
+i: 3 j: 1
+i: 3 j: 2
+i: 4 j: 1
+i: 4 j: 2
+i: 5 j: 1
+i: 5 j: 2
+--- Soru 21
+i: 1 j: 1
+i: 1 j: 2
+i: 1 j: 4
+i: 2 j: 1
+i: 2 j: 2
+i: 2 j: 4
+--- Soru 22
+i: 1 j: 1
+i: 1 j: 2
+i: 2 j: 1
+i: 2 j: 2
+i: 4 j: 1
+i: 4 j: 2
+--- Soru 23
+i: 2 j: 2
+i: 2 j: 4
+i: 3 j: 2
+i: 3 j: 4
+--- Soru 24
+i: 2 j: 2
+i: 2 j: 3
+i: 3 j: 2
+i: 3 j: 3
+*/

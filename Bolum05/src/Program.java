@@ -13,3 +13,7 @@ public class Program {
         klavye.close();
     }
 }
+
+/* Beklenen cikti:
+Merhaba
+*/

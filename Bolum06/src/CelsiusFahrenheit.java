@@ -19,3 +19,10 @@ public class CelsiusFahrenheit {
         System.out.println("Hatali 9 / 5 * c + 32: " + (9 / 5 * c + 32));   // 132.0
     }
 }
+
+/* Beklenen cikti:
+100.0 C = 212.0 F
+37.0 C = 98.6 F
+-40.0 C = -40.0 F
+Hatali 9 / 5 * c + 32: 132.0
+*/

@@ -32,3 +32,12 @@ public class Bicimleme {
 		System.out.printf(Locale.US, "%.1f%n", 3.5);        // 3.5
 	}
 }
+
+/* Beklenen cikti:
+Java       3   17.50
+Java       3   17,50
+Ada   |  42|  3.14|
+00042|1,234,567
+IllegalFormatConversionException: d != java.lang.Double
+3.5
+*/

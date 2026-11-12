@@ -22,3 +22,10 @@ public class SigKopyaTuzagi {
 		System.out.println(Arrays.deepToString(c));   // [[1, 2], [3, 4]]
 	}
 }
+
+/* Beklenen cikti:
+[[99, 2], [3, 4]]
+[[99, 2], [7, 8]]
+[[99, 2], [3, 4]]
+[[1, 2], [3, 4]]
+*/

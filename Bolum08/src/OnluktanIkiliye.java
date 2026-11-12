@@ -17,3 +17,8 @@ public class OnluktanIkiliye {
         System.out.println("Integer.toBinaryString(13) = " + Integer.toBinaryString(13));
     }
 }
+
+/* Beklenen cikti:
+1101
+Integer.toBinaryString(13) = 1101
+*/

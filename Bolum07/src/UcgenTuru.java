@@ -41,3 +41,11 @@ public class UcgenTuru {
             System.out.println("Fazla kilolu");
     }
 }
+
+/* Beklenen cikti:
+Ikizkenar
+pozitif
+negatif
+sifir
+VKI = 22.857142857142858 -> Normal
+*/

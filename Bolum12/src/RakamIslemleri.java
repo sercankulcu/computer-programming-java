@@ -68,3 +68,13 @@ public class RakamIslemleri {
 		System.out.println();                         // 274 472
 	}
 }
+
+/* Beklenen cikti:
+13
+13
+17
+6
+1 3
+0 3
+274 472
+*/

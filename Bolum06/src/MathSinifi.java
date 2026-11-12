@@ -20,3 +20,15 @@ public class MathSinifi {
             + " " + Math.pow(2, 3));
     }
 }
+
+/* Beklenen cikti:
+3.141592653589793
+4.0
+1024.0
+7
+8
+3
+3
+-2
+3 -2 4.0 8.0
+*/

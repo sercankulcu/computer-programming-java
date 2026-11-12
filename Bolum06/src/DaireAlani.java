@@ -15,3 +15,9 @@ public class DaireAlani {
         System.out.printf("Cevre: %.2f%n", cevre);
     }
 }
+
+/* Beklenen cikti:
+19.634954084936208 15.707963267948966
+Alan: 19.63
+Cevre: 15.71
+*/

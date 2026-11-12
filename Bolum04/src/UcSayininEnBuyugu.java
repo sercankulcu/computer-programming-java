@@ -25,3 +25,9 @@ public class UcSayininEnBuyugu {
         System.out.println(enKucuk(8, 3, 5));   // 3
     }
 }
+
+/* Beklenen cikti:
+9
+8
+3
+*/

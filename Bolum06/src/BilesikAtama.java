@@ -40,3 +40,11 @@ public class BilesikAtama {
         System.out.println(b2 + " " + k);   // -126 9
     }
 }
+
+/* Beklenen cikti:
+70
+15 8
+50
+12 8 2 2
+-126 9
+*/

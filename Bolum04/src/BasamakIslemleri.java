@@ -46,3 +46,19 @@ public class BasamakIslemleri {
         System.out.println("0: while " + basamakSayisiWhile(0) + ", do-while " + basamakSayisiDoWhile(0));          // 0 1
     }
 }
+
+/* Beklenen cikti:
+472 icin basamak toplami:
+  rakam = 2, toplam = 2, sayi = 47
+  rakam = 7, toplam = 9, sayi = 4
+  rakam = 4, toplam = 13, sayi = 0
+toplam = 13
+1234 icin basamak toplami:
+  rakam = 4, toplam = 4, sayi = 123
+  rakam = 3, toplam = 7, sayi = 12
+  rakam = 2, toplam = 9, sayi = 1
+  rakam = 1, toplam = 10, sayi = 0
+toplam = 10
+4096: while 4, do-while 4
+0: while 0, do-while 1
+*/

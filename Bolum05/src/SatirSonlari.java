@@ -13,3 +13,10 @@ public class SatirSonlari {
         System.out.println();   // konsol duzgun bitsin diye eklendi (soruda yok)
     }
 }
+
+/* Beklenen cikti:
+AB
+CD
+
+E
+*/

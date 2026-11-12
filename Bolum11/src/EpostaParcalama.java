@@ -26,3 +26,9 @@ public class EpostaParcalama {
 		System.out.println(soyad.toUpperCase(Locale.ENGLISH) + ", " + isim);   // KAYA, ece
 	}
 }
+
+/* Beklenen cikti:
+ali / gru.edu
+A
+KAYA, ece
+*/

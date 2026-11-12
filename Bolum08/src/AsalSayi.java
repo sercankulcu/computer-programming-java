@@ -27,3 +27,9 @@ public class AsalSayi {
         System.out.println();
     }
 }
+
+/* Beklenen cikti:
+29 -> true
+21 -> false
+2 3 5 7 11 13 17 19
+*/

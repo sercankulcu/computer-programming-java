@@ -40,3 +40,24 @@ public class SplitVeReplace {
 		System.out.println(k.trim().split(" ").length);    // 4 (cift bosluk arasi bos parca)
 	}
 }
+
+/* Beklenen cikti:
+[a, b, , c] 4
+aLi veLi
+ali veli
+bonono
+bANANa
+a#b#c#
+a#b22c333
+Ada Can Ece
+Ada, Can, Ece
+3.5 / hi
+3.14
+   42|42   |00042
+1,234,567
+4
+2
+a-b-c3.5
+3
+4
+*/

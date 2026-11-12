@@ -13,3 +13,7 @@ public class Merhaba {
         System.out.println("Merhaba");
     }
 }
+
+/* Beklenen cikti:
+Merhaba
+*/

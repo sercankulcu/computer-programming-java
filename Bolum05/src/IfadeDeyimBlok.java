@@ -20,3 +20,8 @@ public class IfadeDeyimBlok {
         System.out.println("adet = 2 icin toplam = " + toplam + " (blok atlandi)");
     }
 }
+
+/* Beklenen cikti:
+Indirim
+adet = 2 icin toplam = 240 (blok atlandi)
+*/

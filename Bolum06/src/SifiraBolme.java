@@ -26,3 +26,18 @@ public class SifiraBolme {
         System.out.println(0.0 / 0 == 0.0 / 0);
     }
 }
+
+/* Beklenen cikti:
+ArithmeticException: / by zero
+Infinity
+-Infinity
+NaN
+false
+true
+true
+-1
+1
+1.5
+Infinity
+false
+*/

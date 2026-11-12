@@ -30,3 +30,17 @@ public class AltDizgi {
 		System.out.println("[" + s.substring(7) + "] [" + s.substring(0, 7) + "]");   // [] [PROGRAM]
 	}
 }
+
+/* Beklenen cikti:
+PRO
+GRAM
+GRAM
+[]
+PRO
+GRAM
+OGR||
+3
+substring(5, 9): StringIndexOutOfBoundsException
+substring(5, 3): StringIndexOutOfBoundsException
+[] [PROGRAM]
+*/

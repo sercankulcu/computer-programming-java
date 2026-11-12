@@ -18,3 +18,10 @@ public class TersCevirmePalindrom {
         }
     }
 }
+
+/* Beklenen cikti:
+1221
+true
+4321
+false
+*/

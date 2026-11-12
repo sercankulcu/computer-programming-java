@@ -21,3 +21,12 @@ public class Ebob {
 		System.out.println(ebob(84, 36));      // 12 (Soru 27)
 	}
 }
+
+/* Beklenen cikti:
+6
+ebob(48, 18)
+ebob(18, 12)
+ebob(12, 6)
+ebob(6, 0)
+12
+*/

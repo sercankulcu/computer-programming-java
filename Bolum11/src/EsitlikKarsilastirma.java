@@ -30,3 +30,15 @@ public class EsitlikKarsilastirma {
 		}
 	}
 }
+
+/* Beklenen cikti:
+false
+true
+true
+false
+true
+true
+true
+false
+NullPointerException
+*/

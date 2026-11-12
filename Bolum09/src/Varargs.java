@@ -17,3 +17,9 @@ public class Varargs {
         System.out.println(topla(new int[]{4, 5}));    // 9
     }
 }
+
+/* Beklenen cikti:
+6
+0
+9
+*/

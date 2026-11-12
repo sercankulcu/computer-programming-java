@@ -36,3 +36,9 @@ public class SezarSifresi {
 		System.out.println(sifreli2);             // mcb
 	}
 }
+
+/* Beklenen cikti:
+bdclolp
+yazilim
+mcb
+*/

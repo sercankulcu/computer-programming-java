@@ -14,3 +14,8 @@ public class UsAlma {
         System.out.println(Math.pow(taban, us));      // 16.0 (double doner)
     }
 }
+
+/* Beklenen cikti:
+16
+16.0
+*/

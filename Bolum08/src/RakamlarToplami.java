@@ -31,3 +31,8 @@ public class RakamlarToplami {
         System.out.println("rakamlarToplami(-4096) = " + rakamlarToplami(-4096));   // 19
     }
 }
+
+/* Beklenen cikti:
+14
+rakamlarToplami(-4096) = 19
+*/

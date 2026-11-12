@@ -32,3 +32,25 @@ public class SecimliSiralama {
         secimliSirala(new int[] {1, 2, 3, 4, 5});
     }
 }
+
+/* Beklenen cikti:
+baslangic: [29, 10, 14, 37, 13]
+i = 0, enK = 1 -> [10, 29, 14, 37, 13]
+i = 1, enK = 4 -> [10, 13, 14, 37, 29]
+i = 2, enK = 2 -> [10, 13, 14, 37, 29]
+i = 3, enK = 4 -> [10, 13, 14, 29, 37]
+toplam 10 karsilastirma
+
+baslangic: [6, 2, 8, 3]
+i = 0, enK = 1 -> [2, 6, 8, 3]
+i = 1, enK = 3 -> [2, 3, 8, 6]
+i = 2, enK = 3 -> [2, 3, 6, 8]
+toplam 6 karsilastirma
+
+baslangic: [1, 2, 3, 4, 5]
+i = 0, enK = 0 -> [1, 2, 3, 4, 5]
+i = 1, enK = 1 -> [1, 2, 3, 4, 5]
+i = 2, enK = 2 -> [1, 2, 3, 4, 5]
+i = 3, enK = 3 -> [1, 2, 3, 4, 5]
+toplam 10 karsilastirma
+*/

@@ -14,3 +14,12 @@ public class Birlestir {
         System.out.println("5 + 3");
     }
 }
+
+/* Beklenen cikti:
+3345
+Toplam: 23
+Toplam: 5
+6=6
+8
+5 + 3
+*/

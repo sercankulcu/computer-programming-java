@@ -17,3 +17,8 @@ public class OzyinelemeliPalindrom {
 		System.out.println(palindrom(k, 0, k.length() - 1));   // false
 	}
 }
+
+/* Beklenen cikti:
+true
+false
+*/

@@ -19,3 +19,9 @@ public class TestTablosu {
         test(75, 80, 77.5);
     }
 }
+
+/* Beklenen cikti:
+70, 90 -> 80 (beklenen 80.0) gecti; duzeltilmis: 80.0
+0, 0 -> 0 (beklenen 0.0) gecti; duzeltilmis: 0.0
+75, 80 -> 77 (beklenen 77.5) kaldi; duzeltilmis: 77.5
+*/

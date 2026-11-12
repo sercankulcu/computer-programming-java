@@ -36,3 +36,9 @@ public class DerlemeHatalari {
         System.out.println(f());       // 2
     }
 }
+
+/* Beklenen cikti:
+1
+0
+2
+*/

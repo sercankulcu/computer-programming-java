@@ -79,3 +79,24 @@ public class Faktoriyel {
         }
     }
 }
+
+/* Beklenen cikti:
+n = 5 -> 120
+n = 0 -> 1
+n = 1 -> 1
+n = -3 -> hata
+n = 20 -> 2432902008176640000
+n = 21 -> uyari: kisit 0 <= n <= 20 (21! long'a sigmaz)
+
+an		i	sonuc	i <= n
+baslangic	2	1	-
+tur 1		2	2	dogru
+tur 2		3	6	dogru
+tur 3		4	24	dogru
+cikis		5	24	5 <= 4 yanlis
+
+21! long ile: -4249290049419214848 (dogrusu 51090942171709440000)
+Soru 5 (sonuc = 0, n = 5): 0
+Soru 6 (i < n, n = 5): 24
+Soru 6 (i < n, n = 1): 1
+*/

@@ -25,3 +25,9 @@ public class MukemmelSayi {
         System.out.println();
     }
 }
+
+/* Beklenen cikti:
+28 -> true
+12 -> false
+6 28 496
+*/

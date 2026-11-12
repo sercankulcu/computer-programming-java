@@ -29,3 +29,12 @@ public class HesapMakinesi {
         klavye.close();
     }
 }
+
+/* Beklenen cikti:
+7.0 + 5.0 = 12.0
+7.0 - 5.0 = 2.0
+7.0 * 5.0 = 35.0
+7.0 / 2.0 = 3.5
+7.0 / 0.0 = Hata!
+9.0 % 4.0 = Gecersiz
+*/

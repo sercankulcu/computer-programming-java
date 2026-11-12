@@ -21,3 +21,9 @@ public class CharAritmetigi {
         System.out.println((int) 'A');   // 65
     }
 }
+
+/* Beklenen cikti:
+B 67 C
+D 70 F
+65
+*/
