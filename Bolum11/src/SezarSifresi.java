@@ -9,6 +9,7 @@ public class SezarSifresi {
 		StringBuilder sifreli = new StringBuilder();
 		for (int i = 0; i < metin.length(); i++) {
 			char c = metin.charAt(i);
+			if (c < 'a' || c > 'z') { sifreli.append(c); continue; }
 			int yer = (c - 'a' + kaydir) % 26;    // 'z' sonrasi basa doner
 			char yeni = (char) ('a' + yer);
 			sifreli.append(yeni);

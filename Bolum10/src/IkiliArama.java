@@ -7,7 +7,7 @@ public class IkiliArama {
 	static int ara(int[] a, int x) {
 		int lo = 0, hi = a.length - 1;
 		while (lo <= hi) {
-			int mid = (lo + hi) / 2;
+			int mid = lo + (hi - lo) / 2;
 			if (a[mid] == x) return mid;
 			if (a[mid] < x) lo = mid + 1; else hi = mid - 1;
 		}
@@ -19,7 +19,7 @@ public class IkiliArama {
 		int hedef = 23, lo = 0, hi = a.length - 1;
 		int sonuc = -1;
 		while (lo <= hi) {
-			int mid = (lo + hi) / 2;
+			int mid = lo + (hi - lo) / 2;
 			System.out.println("lo=" + lo + " hi=" + hi + " mid=" + mid + " a[mid]=" + a[mid]);
 			if (a[mid] == hedef) { sonuc = mid; break; }
 			if (a[mid] < hedef) lo = mid + 1;

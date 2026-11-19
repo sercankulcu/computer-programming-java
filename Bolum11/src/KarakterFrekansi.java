@@ -8,6 +8,7 @@ public class KarakterFrekansi {
 		int[] frekans = new int[26];
 		for (int i = 0; i < s.length(); i++) {
 			char c = s.charAt(i);
+			if (c < 'a' || c > 'z') continue;
 			frekans[c - 'a']++;          // 'a' -> 0, 'b' -> 1, ...
 		}
 		for (int k = 0; k < 26; k++)

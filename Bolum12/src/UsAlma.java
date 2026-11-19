@@ -15,6 +15,7 @@ public class UsAlma {
 
 	// us her cagrida yariya iner: yaklasik log2(us) + 2 cagri
 	static long hizliUs(long taban, int us) {
+		if (us < 0) throw new IllegalArgumentException("us < 0");
 		cagriSayisi++;
 		if (us == 0) return 1;
 		long yarim = hizliUs(taban, us / 2);

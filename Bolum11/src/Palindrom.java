@@ -7,7 +7,8 @@ public class Palindrom {
 
 	public static void main(String[] args) {
 		String cumle = "Ey Edip Adanada pide ye";
-		String t = cumle.toLowerCase(Locale.ENGLISH).replace(" ", "");
+		Locale tr = Locale.forLanguageTag("tr");
+		String t = cumle.toLowerCase(tr).replace(" ", "");
 		int sol = 0, sag = t.length() - 1;
 		boolean palindrom = true;
 		while (sol < sag && palindrom) {
@@ -18,7 +19,7 @@ public class Palindrom {
 		System.out.println(palindrom);   // true
 
 		// Soru 29: break ile erken cikis
-		String s = "Kabak".toLowerCase(Locale.ENGLISH);
+		String s = "Kabak".toLowerCase(tr);
 		int sol2 = 0, sag2 = s.length() - 1;
 		boolean palindrom2 = true;
 		while (sol2 < sag2) {

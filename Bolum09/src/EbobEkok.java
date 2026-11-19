@@ -11,11 +11,12 @@ public class EbobEkok {
             a = b;
             b = r;
         }
-        return a;
+        return Math.abs(a);
     }
 
     static int ekok(int a, int b) {
-        return a / ebob(a, b) * b;
+        if (a == 0 || b == 0) return 0;
+        return Math.abs(a / ebob(a, b) * b);
     }
 
     public static void main(String[] args) {

@@ -6,7 +6,7 @@ public class OzyinelemeliIkiliArama {
 	static int ara(int[] a, int x,
 				   int lo, int hi) {
 		if (lo > hi) return -1;                       // taban durum: aralik bos
-		int mid = (lo + hi) / 2;
+		int mid = lo + (hi - lo) / 2;
 		if (a[mid] == x) return mid;                  // taban durum: bulundu
 		if (a[mid] < x) return ara(a, x, mid + 1, hi);
 		return ara(a, x, lo, mid - 1);
